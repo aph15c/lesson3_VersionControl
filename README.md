@@ -5,16 +5,19 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(January 30, 2018)
 
 ## Student Name:  
-(First and Last Name)
+(Alexis Harvey)
+
+## View Project:
+(https://aph15c.github.io/lesson3_VersionControl/)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(Learning how to use git as a repository for our web servers.)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned what a version control system was and how it works.)
+2. (I learned how to use Git VCS to manage my server's files and repository.)
+3. (I learned all of the different advantages and commands for Git.)
 
